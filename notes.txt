@@ -120,3 +120,8 @@ css background-color in js is backgroundColor
 
 phoodo - section 18 lecture 142 1:50 login error
 
+Types of storage:
+1) JavaScript Variables
+2) Indexed DB (IDB)
+3) WebStorage: Session Storage
+4) WebStorage: Local Storage
